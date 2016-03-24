@@ -39,4 +39,6 @@
     <phrase title="xcis_invitations_sent" addon_id="xcis" version_id="0" version_string="">
         <![CDATA[Отправленные приглашения]]></phrase>
     <phrase title="xcis_invite" addon_id="xcis" version_id="13" version_string="1.1.8"><![CDATA[Пригласить]]></phrase>
+    <phrase title="xcis_this_is_invite_only_community" addon_id="xcis" version_id="0" version_string="">
+        <![CDATA[К сожалению, вы не можете зарегистрироваться. Это закрытое сообщество, и вам необходимо иметь приглашение.]]></phrase>
 </language>

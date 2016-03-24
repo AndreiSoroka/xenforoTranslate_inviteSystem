@@ -198,7 +198,6 @@
     <phrase title="xcis_there_are_no_purchase_rules" addon_id="xcis" version_id="0" version_string=""><![CDATA[There are no packages created for your usergroup. Please contact site administration.]]></phrase>
     <phrase title="xcis_there_are_no_purchase_rules_signup" addon_id="xcis" version_id="0" version_string=""><![CDATA[There are no registration packages allowing you to signup. Please contact site administration.]]></phrase>
     <phrase title="xcis_there_was_a_problem_validating_the_payment" addon_id="xcis" version_id="0" version_string=""><![CDATA[There was a problem validating the payment. Please contact site administrator.]]></phrase>
-    <phrase title="xcis_this_is_invite_only_community" addon_id="xcis" version_id="0" version_string=""><![CDATA[Sorry, this is an invite-only community and you can not register without valid invitation link.]]></phrase>
     <phrase title="xcis_this_user_is_already_registered" addon_id="xcis" version_id="13" version_string="1.1.8"><![CDATA[This user is already registered in our board: {name}]]></phrase>
     <phrase title="xcis_title_explain_purchase_rule" addon_id="xcis" version_id="0" version_string=""><![CDATA[Package name to be used in Manage Packages admin page, and in front-end pages where users purchase invites.]]></phrase>
     <phrase title="xcis_title_purchase_rule" addon_id="xcis" version_id="0" version_string=""><![CDATA[Title]]></phrase>
