@@ -77,4 +77,23 @@
         <![CDATA[Если включено, вкладка "Больше всех приглашений"  появится в разделе "Выдающиеся пользователи"]]></phrase>
     <phrase title="xcis_most_invited" addon_id="xcis" version_id="25" version_string="1.4.1">
         <![CDATA[Больше всех приглашений]]></phrase>
+    <phrase title="option_xcis_add_navigation_tab" addon_id="xcis" version_id="0" version_string="">
+        <![CDATA[Добавить вкладку в навигацию (верхнее меню)]]></phrase>
+    <phrase title="option_xcis_add_profile_tab" addon_id="xcis" version_id="0" version_string="">
+        <![CDATA[Добавить вкладку в профиль пользователя]]></phrase>
+    <phrase title="option_xcis_add_profile_tab_explain" addon_id="xcis" version_id="0" version_string="">
+        <![CDATA[Если включено, в профиле пользователя будет отображена вкладка, в которой перечислены все приглашенные пользователи и кто пригласил данного пользователя (при наличии referrer)]]></phrase>
+    <phrase title="option_xcis_invitation_expiration" addon_id="xcis" version_id="0" version_string="">
+        <![CDATA[Истечение приглашения]]></phrase>
+    <phrase title="option_xcis_invitation_expiration_explain" addon_id="xcis" version_id="0" version_string="">
+        <![CDATA[По истечению указанного количества часов, неиспользованные приглашения будут автоматически аннулированы. Используйте 0 чтобы отключить функционал.]]></phrase>
+    <phrase title="option_xcis_invite_to_post" addon_id="xcis" version_id="20" version_string="1.3.2">
+        <![CDATA[Позвать и показать сообщение]]></phrase>
+    <phrase title="option_xcis_invite_to_post_explain" addon_id="xcis" version_id="20" version_string="1.3.2">
+        <![CDATA[У каждого поста появился ссылка "Invite To Post", позволяющая звать пользователей, которые будут видеть данное сообщение (прим. переводчика: не разбирал данный функционал)]]></phrase>
+    <phrase title="option_xcis_add_profile_stats" addon_id="xcis" version_id="0" version_string="">
+        <![CDATA[Добавить в статистику профиля]]></phrase>
+    <phrase title="option_xcis_add_profile_stats_explain" addon_id="xcis" version_id="0" version_string="">
+        <![CDATA[Если включено, то количество приглашенных пользователей будет отображаться в статистики профиля пользователя]]></phrase>
+
 </language>

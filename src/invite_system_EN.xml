@@ -9,14 +9,9 @@
     <phrase title="admin_navigation_xcis_upgrade" addon_id="xcis" version_id="0" version_string=""><![CDATA[Upgrade Product]]></phrase>
     <phrase title="cron_entry_xcis_delete_notifications" addon_id="xcis" version_id="0" version_string=""><![CDATA[Delete Expired Invitations]]></phrase>
     <phrase title="option_group_xcis" addon_id="xcis" version_id="0" version_string=""><![CDATA[Invite System]]></phrase>
-    <phrase title="option_xcis_add_navigation_tab" addon_id="xcis" version_id="0" version_string=""><![CDATA[Add Navigation Tab]]></phrase>
     <phrase title="option_xcis_add_navigation_tab_explain" addon_id="xcis" version_id="0" version_string=""><![CDATA[]]></phrase>
-    <phrase title="option_xcis_add_profile_stats" addon_id="xcis" version_id="0" version_string=""><![CDATA[Add Profile Stats]]></phrase>
-    <phrase title="option_xcis_add_profile_stats_explain" addon_id="xcis" version_id="0" version_string=""><![CDATA[If enabled number of users invited by the user will be shown in user's profile stats section.]]></phrase>
-    <phrase title="option_xcis_add_profile_tab" addon_id="xcis" version_id="0" version_string=""><![CDATA[Add Profile Tab]]></phrase>
     <phrase title="option_xcis_add_profile_tab_count" addon_id="xcis" version_id="24" version_string="1.4.0.1"><![CDATA[Profile Tab Invites Left Count]]></phrase>
     <phrase title="option_xcis_add_profile_tab_count_explain" addon_id="xcis" version_id="24" version_string="1.4.0.1"><![CDATA[If enabled the tab will show number of invites left for that user.]]></phrase>
-    <phrase title="option_xcis_add_profile_tab_explain" addon_id="xcis" version_id="0" version_string=""><![CDATA[If enabled a tab will be added on member's profile showing list of users invited by the member.]]></phrase>
     <phrase title="option_xcis_default_invite_count" addon_id="xcis" version_id="0" version_string=""><![CDATA[Default Invite Count]]></phrase>
     <phrase title="option_xcis_default_invite_count_explain" addon_id="xcis" version_id="0" version_string=""><![CDATA[Number of invites users will have by default after product installation and for newly registered users.]]></phrase>
     <phrase title="option_xcis_email_domain_restriction" addon_id="xcis" version_id="0" version_string=""><![CDATA[Email Domain Restriction]]></phrase>
@@ -33,12 +28,8 @@
     <phrase title="option_xcis_google_client_secret_explain" addon_id="xcis" version_id="13" version_string="1.1.8"><![CDATA[]]></phrase>
     <phrase title="option_xcis_invitation_email_only" addon_id="xcis" version_id="0" version_string=""><![CDATA[Registration Email Restriction]]></phrase>
     <phrase title="option_xcis_invitation_email_only_explain" addon_id="xcis" version_id="0" version_string=""><![CDATA[If enabled users will be able to register only by using email address where they got the invitation.]]></phrase>
-    <phrase title="option_xcis_invitation_expiration" addon_id="xcis" version_id="0" version_string=""><![CDATA[Invitation Expiration]]></phrase>
-    <phrase title="option_xcis_invitation_expiration_explain" addon_id="xcis" version_id="0" version_string=""><![CDATA[Invitations will be expired after number of hours defined here automatically. Set to 0 to disable.]]></phrase>
     <phrase title="option_xcis_invite_only_registration" addon_id="xcis" version_id="0" version_string=""><![CDATA[Invite-Only Registration]]></phrase>
     <phrase title="option_xcis_invite_only_registration_explain" addon_id="xcis" version_id="0" version_string=""><![CDATA[Users will be able to register only with valid invitation. If you have created invite packages available for Unregistered usergroup, users will see an option to purchase invite directly on registration page.]]></phrase>
-    <phrase title="option_xcis_invite_to_post" addon_id="xcis" version_id="20" version_string="1.3.2"><![CDATA[Invite To Post]]></phrase>
-    <phrase title="option_xcis_invite_to_post_explain" addon_id="xcis" version_id="20" version_string="1.3.2"><![CDATA[Enable Invite To Post feature. Will show a link for each post allowing users to invite others see that post and register.]]></phrase>
     <phrase title="permission_group_xcis" addon_id="xcis" version_id="0" version_string=""><![CDATA[Invite System]]></phrase>
     <phrase title="xcis_a_user_with_email" addon_id="xcis" version_id="0" version_string=""><![CDATA[A user with this email address is already registered, you should send the invitation to an address which you will use to register.]]></phrase>
     <phrase title="xcis_active" addon_id="xcis" version_id="0" version_string=""><![CDATA[Active]]></phrase>
