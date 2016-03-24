@@ -67,6 +67,14 @@
         <![CDATA[Пропустить ручную модерацию]]></phrase>
     <phrase title="option_xcis_skip_manual_approval_explain" addon_id="xcis" version_id="0" version_string="">
         <![CDATA[Если включено, приглашенные зарегистрированные пользователи не будут попадать в очередь на подтверждение, в независимости настроек форума.]]></phrase>
-
-
+    <phrase title="option_xcis_invited_usergroup" addon_id="xcis" version_id="0" version_string="">
+        <![CDATA[Группа приглашенных]]></phrase>
+    <phrase title="option_xcis_invited_usergroup_explain" addon_id="xcis" version_id="0" version_string="">
+        <![CDATA[Все пользователи, зарегистрированные по приглашению (или при регистрации указали referrer) получат данную группу в качестве вторичной]]></phrase>
+    <phrase title="option_xcis_notable_members_tab" addon_id="xcis" version_id="25" version_string="1.4.1">
+        <![CDATA[Добавить вкладку в "Выдающиеся пользователи"]]></phrase>
+    <phrase title="option_xcis_notable_members_tab_explain" addon_id="xcis" version_id="25" version_string="1.4.1">
+        <![CDATA[Если включено, вкладка "Больше всех приглашений"  появится в разделе "Выдающиеся пользователи"]]></phrase>
+    <phrase title="xcis_most_invited" addon_id="xcis" version_id="25" version_string="1.4.1">
+        <![CDATA[Больше всех приглашений]]></phrase>
 </language>
