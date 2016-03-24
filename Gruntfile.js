@@ -15,7 +15,7 @@ module.exports = function (grunt) {
     compress: {
       main: {
         options: {
-          archive: 'invite_system_RU.tar.gz'
+          archive: 'build/invite_system_RU.tar.gz'
         },
         files: [{
           expand: true,
