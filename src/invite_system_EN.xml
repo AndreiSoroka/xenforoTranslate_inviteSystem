@@ -1,0 +1,247 @@
+<?xml version="1.0" encoding="utf-8"?>
+<language title="Russian (RU)" date_format="j M Y" time_format="H:i" decimal_point="," thousands_separator="." language_code="ru-RU" text_direction="LTR" addon_id="xcis">
+    <phrase title="admin_navigation_xcis_deliminator" addon_id="xcis" version_id="0" version_string=""><![CDATA[-------------]]></phrase>
+    <phrase title="admin_navigation_xcis_general_options" addon_id="xcis" version_id="0" version_string=""><![CDATA[General Options]]></phrase>
+    <phrase title="admin_navigation_xcis_main" addon_id="xcis" version_id="0" version_string=""><![CDATA[Invite System]]></phrase>
+    <phrase title="admin_navigation_xcis_manage_invites" addon_id="xcis" version_id="0" version_string=""><![CDATA[Manage Invites]]></phrase>
+    <phrase title="admin_navigation_xcis_manage_p_r" addon_id="xcis" version_id="0" version_string=""><![CDATA[Manage Packages]]></phrase>
+    <phrase title="admin_navigation_xcis_stats" addon_id="xcis" version_id="17" version_string="1.3.0"><![CDATA[Stats]]></phrase>
+    <phrase title="admin_navigation_xcis_upgrade" addon_id="xcis" version_id="0" version_string=""><![CDATA[Upgrade Product]]></phrase>
+    <phrase title="cron_entry_xcis_delete_notifications" addon_id="xcis" version_id="0" version_string=""><![CDATA[Delete Expired Invitations]]></phrase>
+    <phrase title="option_group_xcis" addon_id="xcis" version_id="0" version_string=""><![CDATA[Invite System]]></phrase>
+    <phrase title="option_group_xcis_description" addon_id="xcis" version_id="0" version_string=""><![CDATA[Invite System allows users to invite others via email to register on the board.]]></phrase>
+    <phrase title="option_xcis_add_navigation_tab" addon_id="xcis" version_id="0" version_string=""><![CDATA[Add Navigation Tab]]></phrase>
+    <phrase title="option_xcis_add_navigation_tab_explain" addon_id="xcis" version_id="0" version_string=""><![CDATA[]]></phrase>
+    <phrase title="option_xcis_add_profile_stats" addon_id="xcis" version_id="0" version_string=""><![CDATA[Add Profile Stats]]></phrase>
+    <phrase title="option_xcis_add_profile_stats_explain" addon_id="xcis" version_id="0" version_string=""><![CDATA[If enabled number of users invited by the user will be shown in user's profile stats section.]]></phrase>
+    <phrase title="option_xcis_add_profile_tab" addon_id="xcis" version_id="0" version_string=""><![CDATA[Add Profile Tab]]></phrase>
+    <phrase title="option_xcis_add_profile_tab_count" addon_id="xcis" version_id="24" version_string="1.4.0.1"><![CDATA[Profile Tab Invites Left Count]]></phrase>
+    <phrase title="option_xcis_add_profile_tab_count_explain" addon_id="xcis" version_id="24" version_string="1.4.0.1"><![CDATA[If enabled the tab will show number of invites left for that user.]]></phrase>
+    <phrase title="option_xcis_add_profile_tab_explain" addon_id="xcis" version_id="0" version_string=""><![CDATA[If enabled a tab will be added on member's profile showing list of users invited by the member.]]></phrase>
+    <phrase title="option_xcis_default_invite_count" addon_id="xcis" version_id="0" version_string=""><![CDATA[Default Invite Count]]></phrase>
+    <phrase title="option_xcis_default_invite_count_explain" addon_id="xcis" version_id="0" version_string=""><![CDATA[Number of invites users will have by default after product installation and for newly registered users.]]></phrase>
+    <phrase title="option_xcis_email_domain_restriction" addon_id="xcis" version_id="0" version_string=""><![CDATA[Email Domain Restriction]]></phrase>
+    <phrase title="option_xcis_email_domain_restriction_explain" addon_id="xcis" version_id="0" version_string=""><![CDATA[Restrict emails used to by domain. Restiction can be both in format ".edu" or "gmail.com". Enter domains one per line]]></phrase>
+    <phrase title="option_xcis_facebook_client_id" addon_id="xcis" version_id="13" version_string="1.1.8"><![CDATA[Facebook Application ID]]></phrase>
+    <phrase title="option_xcis_facebook_client_id_explain" addon_id="xcis" version_id="13" version_string="1.1.8"><![CDATA[]]></phrase>
+    <phrase title="option_xcis_facebook_client_secret" addon_id="xcis" version_id="13" version_string="1.1.8"><![CDATA[Facebook Application Secret]]></phrase>
+    <phrase title="option_xcis_facebook_client_secret_explain" addon_id="xcis" version_id="13" version_string="1.1.8"><![CDATA[]]></phrase>
+    <phrase title="option_xcis_free_self_invitation" addon_id="xcis" version_id="0" version_string=""><![CDATA[Free Self-Invitations]]></phrase>
+    <phrase title="option_xcis_free_self_invitation_explain" addon_id="xcis" version_id="0" version_string=""><![CDATA[Enable this option along with unlimited invite mode to allow guests to send invites to themselves and continue registration with invitation link only. Use to prevent spam registrations.]]></phrase>
+    <phrase title="option_xcis_google_client_id" addon_id="xcis" version_id="16" version_string="1.2.0"><![CDATA[Google Client ID]]></phrase>
+    <phrase title="option_xcis_google_client_id_explain" addon_id="xcis" version_id="13" version_string="1.1.8"><![CDATA[]]></phrase>
+    <phrase title="option_xcis_google_client_secret" addon_id="xcis" version_id="16" version_string="1.2.0"><![CDATA[Google Client Secret]]></phrase>
+    <phrase title="option_xcis_google_client_secret_explain" addon_id="xcis" version_id="13" version_string="1.1.8"><![CDATA[]]></phrase>
+    <phrase title="option_xcis_invitation_email_only" addon_id="xcis" version_id="0" version_string=""><![CDATA[Registration Email Restriction]]></phrase>
+    <phrase title="option_xcis_invitation_email_only_explain" addon_id="xcis" version_id="0" version_string=""><![CDATA[If enabled users will be able to register only by using email address where they got the invitation.]]></phrase>
+    <phrase title="option_xcis_invitation_expiration" addon_id="xcis" version_id="0" version_string=""><![CDATA[Invitation Expiration]]></phrase>
+    <phrase title="option_xcis_invitation_expiration_explain" addon_id="xcis" version_id="0" version_string=""><![CDATA[Invitations will be expired after number of hours defined here automatically. Set to 0 to disable.]]></phrase>
+    <phrase title="option_xcis_invite_only_registration" addon_id="xcis" version_id="0" version_string=""><![CDATA[Invite-Only Registration]]></phrase>
+    <phrase title="option_xcis_invite_only_registration_explain" addon_id="xcis" version_id="0" version_string=""><![CDATA[Users will be able to register only with valid invitation. If you have created invite packages available for Unregistered usergroup, users will see an option to purchase invite directly on registration page.]]></phrase>
+    <phrase title="option_xcis_invite_to_post" addon_id="xcis" version_id="20" version_string="1.3.2"><![CDATA[Invite To Post]]></phrase>
+    <phrase title="option_xcis_invite_to_post_explain" addon_id="xcis" version_id="20" version_string="1.3.2"><![CDATA[Enable Invite To Post feature. Will show a link for each post allowing users to invite others see that post and register.]]></phrase>
+    <phrase title="option_xcis_invited_usergroup" addon_id="xcis" version_id="0" version_string=""><![CDATA[Invited Usergroup]]></phrase>
+    <phrase title="option_xcis_invited_usergroup_explain" addon_id="xcis" version_id="0" version_string=""><![CDATA[All users registered to the board using an invitation (or specified valid referrer during registration) will have this group assigned as a secondary usergroup.]]></phrase>
+    <phrase title="option_xcis_notable_members_tab" addon_id="xcis" version_id="25" version_string="1.4.1"><![CDATA[Add Notable Members Tab]]></phrase>
+    <phrase title="option_xcis_notable_members_tab_explain" addon_id="xcis" version_id="25" version_string="1.4.1"><![CDATA[If enabled Most Invited tab will be shown in Members page]]></phrase>
+    <phrase title="option_xcis_on" addon_id="xcis" version_id="0" version_string=""><![CDATA[Product On/Off]]></phrase>
+    <phrase title="option_xcis_on_explain" addon_id="xcis" version_id="0" version_string=""><![CDATA[Choose No to disable the product.]]></phrase>
+    <phrase title="option_xcis_referrer_usergroup" addon_id="xcis" version_id="0" version_string=""><![CDATA[Referrer Usergroup]]></phrase>
+    <phrase title="option_xcis_referrer_usergroup_explain" addon_id="xcis" version_id="0" version_string=""><![CDATA[All users who invited any other user to the board will have this group assigned as a secondary usergroup after successful registration.]]></phrase>
+    <phrase title="option_xcis_show_deprecated_facebook_tab" addon_id="xcis" version_id="31" version_string="1.4.6"><![CDATA[Show Deprecated Facebook Tab]]></phrase>
+    <phrase title="option_xcis_show_deprecated_facebook_tab_explain" addon_id="xcis" version_id="31" version_string="1.4.6"><![CDATA[If checked old Facebook API tab will be shown.]]></phrase>
+    <phrase title="option_xcis_skip_email_confirmation" addon_id="xcis" version_id="0" version_string=""><![CDATA[Skip Email Confirmation]]></phrase>
+    <phrase title="option_xcis_skip_email_confirmation_explain" addon_id="xcis" version_id="0" version_string=""><![CDATA[If enabled users registered with invitation will not need to confirm their email address.]]></phrase>
+    <phrase title="option_xcis_skip_manual_approval" addon_id="xcis" version_id="0" version_string=""><![CDATA[Skip Manual Approval]]></phrase>
+    <phrase title="option_xcis_skip_manual_approval_explain" addon_id="xcis" version_id="0" version_string=""><![CDATA[If enabled users registered with invitation will not be added to approval queue, regardless of board main settings.]]></phrase>
+    <phrase title="permission_group_xcis" addon_id="xcis" version_id="0" version_string=""><![CDATA[Invite System]]></phrase>
+    <phrase title="permission_interface_xcis_permission_interface" addon_id="xcis" version_id="0" version_string=""><![CDATA[Invite Systenm]]></phrase>
+    <phrase title="permission_xcis_xcis_can_use" addon_id="xcis" version_id="0" version_string=""><![CDATA[Can Use System]]></phrase>
+    <phrase title="permission_xcis_xcis_flood_invite_count" addon_id="xcis" version_id="0" version_string=""><![CDATA[Flood Check Invite Count (number of invites allowed)]]></phrase>
+    <phrase title="permission_xcis_xcis_flood_timeout" addon_id="xcis" version_id="0" version_string=""><![CDATA[Flood Check Time (hours)]]></phrase>
+    <phrase title="xcis_a_user_with_email" addon_id="xcis" version_id="0" version_string=""><![CDATA[A user with this email address is already registered, you should send the invitation to an address which you will use to register.]]></phrase>
+    <phrase title="xcis_active" addon_id="xcis" version_id="0" version_string=""><![CDATA[Active]]></phrase>
+    <phrase title="xcis_active_explain_purchase_rule" addon_id="xcis" version_id="0" version_string=""><![CDATA[Un-check to disable the purchase option.]]></phrase>
+    <phrase title="xcis_active_purchase_rule" addon_id="xcis" version_id="0" version_string=""><![CDATA[Active]]></phrase>
+    <phrase title="xcis_add" addon_id="xcis" version_id="0" version_string=""><![CDATA[Add]]></phrase>
+    <phrase title="xcis_add_purchase_rule" addon_id="xcis" version_id="0" version_string=""><![CDATA[Add Package]]></phrase>
+    <phrase title="xcis_allow_multiple_explain_purchase_rule" addon_id="xcis" version_id="0" version_string=""><![CDATA[Allow user to change the number of invitations to purchase. The final price will be calculated based on price set here (e.g. if the price for 5 invitations is 10 USD, users will be able to purchase 10, 15 invitations for 20 USD, 30 USD).]]></phrase>
+    <phrase title="xcis_allow_multiple_purchase_rule" addon_id="xcis" version_id="0" version_string=""><![CDATA[Allow Quantity]]></phrase>
+    <phrase title="xcis_cancel" addon_id="xcis" version_id="0" version_string=""><![CDATA[Cancel]]></phrase>
+    <phrase title="xcis_choose_invitation_type" addon_id="xcis" version_id="20" version_string="1.3.2"><![CDATA[Please choose the invitation type]]></phrase>
+    <phrase title="xcis_choose_package" addon_id="xcis" version_id="0" version_string=""><![CDATA[Choose Package]]></phrase>
+    <phrase title="xcis_choose_registration_package" addon_id="xcis" version_id="0" version_string=""><![CDATA[Choose Registration Package]]></phrase>
+    <phrase title="xcis_click_here_if_not_redirected" addon_id="xcis" version_id="0" version_string=""><![CDATA[Click here if not redirected within 3 seconds...]]></phrase>
+    <phrase title="xcis_click_here_to_go_back_to_invite_page" addon_id="xcis" version_id="13" version_string="1.1.8"><![CDATA[Click here to get back to invitations page]]></phrase>
+    <phrase title="xcis_confirm_delete_purchase_rule" addon_id="xcis" version_id="0" version_string=""><![CDATA[Please confirm that you want to delete this package.]]></phrase>
+    <phrase title="xcis_confirm_purchase" addon_id="xcis" version_id="0" version_string=""><![CDATA[Confirm Purchase]]></phrase>
+    <phrase title="xcis_confirm_your_email" addon_id="xcis" version_id="0" version_string=""><![CDATA[Confirm Your Email]]></phrase>
+    <phrase title="xcis_continue" addon_id="xcis" version_id="0" version_string=""><![CDATA[Continue]]></phrase>
+    <phrase title="xcis_could_not_get_authentication_token_from_provider" addon_id="xcis" version_id="13" version_string="1.1.8"><![CDATA[Could not get authentication token from the provider. Please go back and try again.]]></phrase>
+    <phrase title="xcis_count_explain_purchase_rule" addon_id="xcis" version_id="0" version_string=""><![CDATA[Number of invitations added to user's account when purchasing this option. Set to one when creating paid registration package.]]></phrase>
+    <phrase title="xcis_count_purchase_rule" addon_id="xcis" version_id="0" version_string=""><![CDATA[Invitation Count]]></phrase>
+    <phrase title="xcis_currency" addon_id="xcis" version_id="0" version_string=""><![CDATA[Currency]]></phrase>
+    <phrase title="xcis_currency_required" addon_id="xcis" version_id="0" version_string=""><![CDATA[Currency field is required. It should be in format supported by payment provider, like USD, GBP etc.]]></phrase>
+    <phrase title="xcis_delete" addon_id="xcis" version_id="0" version_string=""><![CDATA[Delete]]></phrase>
+    <phrase title="xcis_delete_invitation" addon_id="xcis" version_id="0" version_string=""><![CDATA[Delete Invitation]]></phrase>
+    <phrase title="xcis_demo_mode" addon_id="xcis" version_id="0" version_string=""><![CDATA[Demo Mode]]></phrase>
+    <phrase title="xcis_demo_mode_explain" addon_id="xcis" version_id="0" version_string=""><![CDATA[Will run and show number of users affected, but will not save the changes to the database.]]></phrase>
+    <phrase title="xcis_description_explain_purchase_rule" addon_id="xcis" version_id="0" version_string=""><![CDATA[Any additional information to show when user chooses packages.]]></phrase>
+    <phrase title="xcis_description_purchase_rule" addon_id="xcis" version_id="0" version_string=""><![CDATA[Description]]></phrase>
+    <phrase title="xcis_disable" addon_id="xcis" version_id="0" version_string=""><![CDATA[Disable]]></phrase>
+    <phrase title="xcis_display_order" addon_id="xcis" version_id="0" version_string=""><![CDATA[Display Order]]></phrase>
+    <phrase title="xcis_display_order_explain" addon_id="xcis" version_id="0" version_string=""><![CDATA[If multiple options for purchase are available they will be sorted based on this number.]]></phrase>
+    <phrase title="xcis_edit" addon_id="xcis" version_id="0" version_string=""><![CDATA[Edit]]></phrase>
+    <phrase title="xcis_edit_purchase_rule" addon_id="xcis" version_id="0" version_string=""><![CDATA[Edit Package]]></phrase>
+    <phrase title="xcis_email_address" addon_id="xcis" version_id="0" version_string=""><![CDATA[Email Address]]></phrase>
+    <phrase title="xcis_email_address_confirm" addon_id="xcis" version_id="0" version_string=""><![CDATA[We will send a link to this address following which you will be able to continue the registration.]]></phrase>
+    <phrase title="xcis_email_address_invitation" addon_id="xcis" version_id="0" version_string=""><![CDATA[After successful purchase you will get your invitation on this email address.]]></phrase>
+    <phrase title="xcis_email_address_registration" addon_id="xcis" version_id="0" version_string=""><![CDATA[After successful purchase you will get registration link to this email address. You will need to follow it to register.]]></phrase>
+    <phrase title="xcis_email_address_used_is_not_valid" addon_id="xcis" version_id="0" version_string=""><![CDATA[Email address used is not valid: {error} Please go back and use another one.]]></phrase>
+    <phrase title="xcis_email_domain_is_invalid" addon_id="xcis" version_id="0" version_string=""><![CDATA[Email address used is invalid. Allowed domains are: {domainList}.]]></phrase>
+    <phrase title="xcis_enable" addon_id="xcis" version_id="0" version_string=""><![CDATA[Enable]]></phrase>
+    <phrase title="xcis_end_date" addon_id="xcis" version_id="17" version_string="1.3.0"><![CDATA[End Date]]></phrase>
+    <phrase title="xcis_end_date_invalid" addon_id="xcis" version_id="17" version_string="1.3.0"><![CDATA[Invalid start date and end date are selected.]]></phrase>
+    <phrase title="xcis_error_occurred" addon_id="xcis" version_id="0" version_string=""><![CDATA[{message} The following error occured during sending the invitation: {error}]]></phrase>
+    <phrase title="xcis_exceeded_invitation_limit" addon_id="xcis" version_id="0" version_string=""><![CDATA[You have exceeded the limit of {inviteCount} invites during {floodTimeout}. You can send another invite at {date}, {time}.]]></phrase>
+    <phrase title="xcis_facebook" addon_id="xcis" version_id="16" version_string="1.2.0"><![CDATA[Facebook]]></phrase>
+    <phrase title="xcis_facebook_deprecated" addon_id="xcis" version_id="23" version_string="1.4.0"><![CDATA[Facebook (deprecated)]]></phrase>
+    <phrase title="xcis_failed_sending_user" addon_id="xcis" version_id="13" version_string="1.1.8"><![CDATA[Failed sending message to: {username}]]></phrase>
+    <phrase title="xcis_find_friends_via" addon_id="xcis" version_id="13" version_string="1.1.8"><![CDATA[Find friends via]]></phrase>
+    <phrase title="xcis_flooding_message" addon_id="xcis" version_id="32" version_string="1.5.0"><![CDATA[You are allowed to send only {inviteCount} invitations within any {floodTimeout}.]]></phrase>
+    <phrase title="xcis_friend_is_already_registered_in_forums" addon_id="xcis" version_id="13" version_string="1.1.8"><![CDATA[{friend_name} is already registered with us. Click <a href="{profile_link}">here</a> to visit their profile.]]></phrase>
+    <phrase title="xcis_general_options" addon_id="xcis" version_id="0" version_string=""><![CDATA[General Settings]]></phrase>
+    <phrase title="xcis_get_invitation" addon_id="xcis" version_id="0" version_string=""><![CDATA[Get Invitation]]></phrase>
+    <phrase title="xcis_get_invite_link" addon_id="xcis" version_id="16" version_string="1.2.0"><![CDATA[Get invite link]]></phrase>
+    <phrase title="xcis_gmail" addon_id="xcis" version_id="16" version_string="1.2.0"><![CDATA[Gmail / Google+]]></phrase>
+    <phrase title="xcis_interval" addon_id="xcis" version_id="17" version_string="1.3.0"><![CDATA[Interval]]></phrase>
+    <phrase title="xcis_interval_all_times" addon_id="xcis" version_id="17" version_string="1.3.0"><![CDATA[All Times]]></phrase>
+    <phrase title="xcis_interval_last_30_days" addon_id="xcis" version_id="17" version_string="1.3.0"><![CDATA[Last 30 days]]></phrase>
+    <phrase title="xcis_interval_last_month" addon_id="xcis" version_id="17" version_string="1.3.0"><![CDATA[Last Month]]></phrase>
+    <phrase title="xcis_interval_this_month" addon_id="xcis" version_id="17" version_string="1.3.0"><![CDATA[This Month]]></phrase>
+    <phrase title="xcis_invalid_email_address" addon_id="xcis" version_id="0" version_string=""><![CDATA[Invalid email address: {email}]]></phrase>
+    <phrase title="xcis_invitation_at_x" addon_id="xcis" version_id="0" version_string=""><![CDATA[Invitation at {boardTitle}]]></phrase>
+    <phrase title="xcis_invitation_has_been_sent" addon_id="xcis" version_id="0" version_string=""><![CDATA[The invitation has been sent to the address provided. Please check your email shortly and follow the link received to complete your registration.]]></phrase>
+    <phrase title="xcis_invitation_stats" addon_id="xcis" version_id="17" version_string="1.3.0"><![CDATA[Invitation Stats]]></phrase>
+    <phrase title="xcis_invitation_was_successfully_deleted" addon_id="xcis" version_id="0" version_string=""><![CDATA[Invitation was successfully deleted.]]></phrase>
+    <phrase title="xcis_invite_count" addon_id="xcis" version_id="0" version_string=""><![CDATA[Number of invites]]></phrase>
+    <phrase title="xcis_invite_count_explain" addon_id="xcis" version_id="0" version_string=""><![CDATA[]]></phrase>
+    <phrase title="xcis_invite_link" addon_id="xcis" version_id="16" version_string="1.2.0"><![CDATA[Invitation Link]]></phrase>
+    <phrase title="xcis_invite_link_explain" addon_id="xcis" version_id="16" version_string="1.2.0"><![CDATA[Copy the link and send to your friends in any way you want. ]]></phrase>
+    <phrase title="xcis_invite_system" addon_id="xcis" version_id="0" version_string=""><![CDATA[Free Invite System]]></phrase>
+    <phrase title="xcis_invite_to_post" addon_id="xcis" version_id="20" version_string="1.3.2"><![CDATA[Invite To Post]]></phrase>
+    <phrase title="xcis_invites" addon_id="xcis" version_id="0" version_string=""><![CDATA[Invites]]></phrase>
+    <phrase title="xcis_invites_are_purchased_successfully_click_here_to_invite" addon_id="xcis" version_id="0" version_string=""><![CDATA[You have successfully purchased new invites. You will be redirected to invite your friends now!]]></phrase>
+    <phrase title="xcis_items_purchase_rule" addon_id="xcis" version_id="0" version_string=""><![CDATA[Packages]]></phrase>
+    <phrase title="xcis_limit" addon_id="xcis" version_id="17" version_string="1.3.0"><![CDATA[Limit]]></phrase>
+    <phrase title="xcis_linkedin" addon_id="xcis" version_id="16" version_string="1.2.0"><![CDATA[Linkedin]]></phrase>
+    <phrase title="xcis_manage_mode" addon_id="xcis" version_id="0" version_string=""><![CDATA[Manage Mode]]></phrase>
+    <phrase title="xcis_manage_purchase_rules" addon_id="xcis" version_id="0" version_string=""><![CDATA[Manage Packages]]></phrase>
+    <phrase title="xcis_manage_user_invites" addon_id="xcis" version_id="0" version_string=""><![CDATA[Manage User Invites]]></phrase>
+    <phrase title="xcis_member_with_this_email_registered" addon_id="xcis" version_id="0" version_string=""><![CDATA[A member with this email is already registered: {email}.]]></phrase>
+    <phrase title="xcis_members_invited" addon_id="xcis" version_id="0" version_string=""><![CDATA[Members Invited]]></phrase>
+    <phrase title="xcis_most_invited" addon_id="xcis" version_id="25" version_string="1.4.1"><![CDATA[Most Invited]]></phrase>
+    <phrase title="xcis_no" addon_id="xcis" version_id="0" version_string=""><![CDATA[No]]></phrase>
+    <phrase title="xcis_no_change" addon_id="xcis" version_id="0" version_string=""><![CDATA[No Change]]></phrase>
+    <phrase title="xcis_no_friends_to_invite" addon_id="xcis" version_id="19" version_string="1.3.1"><![CDATA[There are no contacts to invite. If you think this is an error please contact site administrator.]]></phrase>
+    <phrase title="xcis_no_payment_methods_configured" addon_id="xcis" version_id="0" version_string=""><![CDATA[Sorry, no payment methods are configured by administrator.]]></phrase>
+    <phrase title="xcis_no_users_invited" addon_id="xcis" version_id="0" version_string=""><![CDATA[No users are invited. ]]></phrase>
+    <phrase title="xcis_number_of_invites" addon_id="xcis" version_id="0" version_string=""><![CDATA[Number of invites]]></phrase>
+    <phrase title="xcis_number_of_users" addon_id="xcis" version_id="17" version_string="1.3.0"><![CDATA[Number of Users]]></phrase>
+
+    <phrase title="xcis_one_user_matching_criteria" addon_id="xcis" version_id="0" version_string=""><![CDATA[There is one user matching the criteria: {username} with current {invite_count} invite available. Please go back and disable Demo Mode to make actual change.]]></phrase>
+    <phrase title="xcis_only_emails_from_domains_are_allowed" addon_id="xcis" version_id="0" version_string=""><![CDATA[Only emails from these domains are allowed: {domainList}.]]></phrase>
+    <phrase title="xcis_only_invitation_with_emails_is_possible" addon_id="xcis" version_id="16" version_string="1.2.0"><![CDATA[The board accepts registrations with invitation emails only, so you have to send the invitation to your friend's email address.]]></phrase>
+    <phrase title="xcis_option_tab_general" addon_id="xcis" version_id="13" version_string="1.1.8"><![CDATA[General Options]]></phrase>
+    <phrase title="xcis_option_tab_social" addon_id="xcis" version_id="13" version_string="1.1.8"><![CDATA[Social Inviters]]></phrase>
+    <phrase title="xcis_package" addon_id="xcis" version_id="0" version_string=""><![CDATA[Package]]></phrase>
+    <phrase title="xcis_package_features" addon_id="xcis" version_id="0" version_string=""><![CDATA[Package Features]]></phrase>
+    <phrase title="xcis_paid_registration_system" addon_id="xcis" version_id="0" version_string=""><![CDATA[Paid Registration/Invites System]]></phrase>
+    <phrase title="xcis_payment_is_successfully_processed" addon_id="xcis" version_id="0" version_string=""><![CDATA[Payment is successfully processed.]]></phrase>
+    <phrase title="xcis_payment_status_is_x" addon_id="xcis" version_id="0" version_string=""><![CDATA[Status for your payment with transaction ID #{transactionId} is: {status}. Please check back later or contact site administrator if you have any problems with the payment.]]></phrase>
+    <phrase title="xcis_please_confirm_the_action_to_continue" addon_id="xcis" version_id="0" version_string=""><![CDATA[Please confirm that you want to delete this invitation.]]></phrase>
+    <phrase title="xcis_please_enter_valid_email_address" addon_id="xcis" version_id="30" version_string="1.4.5"><![CDATA[Please enter valid email address.]]></phrase>
+    <phrase title="xcis_please_provide_email_address" addon_id="xcis" version_id="0" version_string=""><![CDATA[Please go back and provide email address where you want to get the invitation.]]></phrase>
+    <phrase title="xcis_please_select_package" addon_id="xcis" version_id="0" version_string=""><![CDATA[Please go back and select invite package you want to purchase.]]></phrase>
+    <phrase title="xcis_price" addon_id="xcis" version_id="0" version_string=""><![CDATA[Price]]></phrase>
+    <phrase title="xcis_price_explain_purchase_rule" addon_id="xcis" version_id="0" version_string=""><![CDATA[The price for this option.]]></phrase>
+    <phrase title="xcis_price_purchase_rule" addon_id="xcis" version_id="0" version_string=""><![CDATA[Price]]></phrase>
+    <phrase title="xcis_price_required" addon_id="xcis" version_id="0" version_string=""><![CDATA[Price field is required.]]></phrase>
+    <phrase title="xcis_primary_group_explain_purchase_rule" addon_id="xcis" version_id="0" version_string=""><![CDATA[Set new user's primary usergroup to this after registration. Does not affect purchases by current users.]]></phrase>
+    <phrase title="xcis_primary_group_purchase_rule" addon_id="xcis" version_id="0" version_string=""><![CDATA[Registration Primary Usergroup]]></phrase>
+    <phrase title="xcis_purchase" addon_id="xcis" version_id="0" version_string=""><![CDATA[Purchase]]></phrase>
+    <phrase title="xcis_purchase_invite" addon_id="xcis" version_id="0" version_string=""><![CDATA[Purchase Invite]]></phrase>
+    <phrase title="xcis_purchase_invites" addon_id="xcis" version_id="0" version_string=""><![CDATA[Purchase Invites]]></phrase>
+    <phrase title="xcis_purchase_invites_now" addon_id="xcis" version_id="0" version_string=""><![CDATA[Purchase Now]]></phrase>
+    <phrase title="xcis_redirecting_to_facebook_now" addon_id="xcis" version_id="23" version_string="1.4.0"><![CDATA[Redirecting to Facebook now...]]></phrase>
+    <phrase title="xcis_referrer" addon_id="xcis" version_id="0" version_string=""><![CDATA[Referrer]]></phrase>
+    <phrase title="xcis_refunded_purchased_invitation" addon_id="xcis" version_id="0" version_string=""><![CDATA[Refunded purchased invitation]]></phrase>
+    <phrase title="xcis_register" addon_id="xcis" version_id="0" version_string=""><![CDATA[Register]]></phrase>
+    <phrase title="xcis_registration_invitation_purchased_successfully_and_sent_to_x" addon_id="xcis" version_id="0" version_string=""><![CDATA[Your invitation is successfully purchased and registration link is sent to {email}. You will be redirected to registration page now!]]></phrase>
+    <phrase title="xcis_secondary_groups_explain_purchase_rule" addon_id="xcis" version_id="0" version_string=""><![CDATA[Add new users to these secondary usergroups after registration. Does not affect purchases by current users.]]></phrase>
+    <phrase title="xcis_secondary_groups_purchase_rule" addon_id="xcis" version_id="0" version_string=""><![CDATA[Registration Secondary Usergroups]]></phrase>
+    <phrase title="xcis_select_your_Facebook_contacts" addon_id="xcis" version_id="13" version_string="1.1.8"><![CDATA[Select your Facebook friends you would like to invite]]></phrase>
+    <phrase title="xcis_select_your_Google_contacts" addon_id="xcis" version_id="13" version_string="1.1.8"><![CDATA[Select your GMail contacts you would like to invite]]></phrase>
+    <phrase title="xcis_select_your_Linkedin_contacts" addon_id="xcis" version_id="16" version_string="1.2.0"><![CDATA[Select your Linkedin connections to invite]]></phrase>
+    <phrase title="xcis_send_this_link_to_anyone_to_invite" addon_id="xcis" version_id="20" version_string="1.3.2"><![CDATA[Send this link to anyone to invite them to the board, and once they registered you will be listed as a referrer for the user.]]></phrase>
+    <phrase title="xcis_send_via_facebook" addon_id="xcis" version_id="23" version_string="1.4.0"><![CDATA[Send Via Facebook]]></phrase>
+    <phrase title="xcis_sent_to" addon_id="xcis" version_id="0" version_string=""><![CDATA[Sent To]]></phrase>
+    <phrase title="xcis_set" addon_id="xcis" version_id="0" version_string=""><![CDATA[Set]]></phrase>
+    <phrase title="xcis_show_top_inviters" addon_id="xcis" version_id="17" version_string="1.3.0"><![CDATA[Show Top Inviters]]></phrase>
+    <phrase title="xcis_start_date" addon_id="xcis" version_id="17" version_string="1.3.0"><![CDATA[Start Date]]></phrase>
+    <phrase title="xcis_stats" addon_id="xcis" version_id="17" version_string="1.3.0"><![CDATA[Stats]]></phrase>
+    <phrase title="xcis_submit" addon_id="xcis" version_id="0" version_string=""><![CDATA[Submit]]></phrase>
+    <phrase title="xcis_subtract" addon_id="xcis" version_id="0" version_string=""><![CDATA[Subtract]]></phrase>
+    <phrase title="xcis_thank_you_for_payment" addon_id="xcis" version_id="0" version_string=""><![CDATA[Thank you for the payment. It will be processed shortly and you will get notified about it.]]></phrase>
+    <phrase title="xcis_the_follow_errors_occurred_while_sending" addon_id="xcis" version_id="13" version_string="1.1.8"><![CDATA[The following errors occurred while sending the invitations]]></phrase>
+    <phrase title="xcis_the_top_inviter_user_is" addon_id="xcis" version_id="17" version_string="1.3.0"><![CDATA[The top inviter user is {username}]]></phrase>
+    <phrase title="xcis_there_are_no_purchase_rules" addon_id="xcis" version_id="0" version_string=""><![CDATA[There are no packages created for your usergroup. Please contact site administration.]]></phrase>
+    <phrase title="xcis_there_are_no_purchase_rules_signup" addon_id="xcis" version_id="0" version_string=""><![CDATA[There are no registration packages allowing you to signup. Please contact site administration.]]></phrase>
+    <phrase title="xcis_there_was_a_problem_validating_the_payment" addon_id="xcis" version_id="0" version_string=""><![CDATA[There was a problem validating the payment. Please contact site administrator.]]></phrase>
+    <phrase title="xcis_this_is_invite_only_community" addon_id="xcis" version_id="0" version_string=""><![CDATA[Sorry, this is an invite-only community and you can not register without valid invitation link.]]></phrase>
+    <phrase title="xcis_this_user_is_already_registered" addon_id="xcis" version_id="13" version_string="1.1.8"><![CDATA[This user is already registered in our board: {name}]]></phrase>
+    <phrase title="xcis_title_explain_purchase_rule" addon_id="xcis" version_id="0" version_string=""><![CDATA[Package name to be used in Manage Packages admin page, and in front-end pages where users purchase invites.]]></phrase>
+    <phrase title="xcis_title_purchase_rule" addon_id="xcis" version_id="0" version_string=""><![CDATA[Title]]></phrase>
+    <phrase title="xcis_top_inviters" addon_id="xcis" version_id="17" version_string="1.3.0"><![CDATA[Top Inviters]]></phrase>
+    <phrase title="xcis_top_inviters_limit" addon_id="xcis" version_id="17" version_string="1.3.0"><![CDATA[Limit number of users shown]]></phrase>
+    <phrase title="xcis_total_invites_mail" addon_id="xcis" version_id="17" version_string="1.3.0"><![CDATA[Total Invites: {totalInvites}, {email}]]></phrase>
+    <phrase title="xcis_unable_to_get_friend_details" addon_id="xcis" version_id="13" version_string="1.1.8"><![CDATA[Unable to get friend details. Please try again.]]></phrase>
+    <phrase title="xcis_unable_to_validate_payment" addon_id="xcis" version_id="0" version_string=""><![CDATA[Unable to validate your payment. Please contact site administrator.]]></phrase>
+    <phrase title="xcis_unknown_error_while_sending" addon_id="xcis" version_id="0" version_string=""><![CDATA[Unknown error while sending invitation email.]]></phrase>
+    <phrase title="xcis_unknown_response_from_provider" addon_id="xcis" version_id="13" version_string="1.1.8"><![CDATA[Unknown response received from service provider. Please contact site administration.]]></phrase>
+    <phrase title="xcis_userUpgrades_explain_purchase_rule" addon_id="xcis" version_id="31" version_string="1.4.6"><![CDATA[Selected user upgrades will be assigned to any user purchasing the package. Can be used for time-limited user promotion on registration.]]></phrase>
+    <phrase title="xcis_user_invited_at_least_x_other_users" addon_id="xcis" version_id="5" version_string="1.1.3"><![CDATA[User invited at least X other users]]></phrase>
+    <phrase title="xcis_user_invited_at_most_x_other_users" addon_id="xcis" version_id="5" version_string="1.1.3"><![CDATA[User invited no more than X other users]]></phrase>
+    <phrase title="xcis_user_upgrades" addon_id="xcis" version_id="31" version_string="1.4.6"><![CDATA[Assign User Upgrades]]></phrase>
+    <phrase title="xcis_usergroups_explain_purchase_rule" addon_id="xcis" version_id="0" version_string=""><![CDATA[Select usergroups who should be able to use this purchase option. If Unregistered is selected and paid registration is enbaled the option will be show at registration.]]></phrase>
+    <phrase title="xcis_usergroups_purchase_rule" addon_id="xcis" version_id="0" version_string=""><![CDATA[Show to Usergroups]]></phrase>
+    <phrase title="xcis_username_has_not_invited_anyone_yet" addon_id="xcis" version_id="0" version_string=""><![CDATA[{username} has not invited anyone yet.]]></phrase>
+    <phrase title="xcis_username_invited_by" addon_id="xcis" version_id="0" version_string=""><![CDATA[{username} is invited by]]></phrase>
+    <phrase title="xcis_users_invited_by_username" addon_id="xcis" version_id="0" version_string=""><![CDATA[Users invited by {username}]]></phrase>
+    <phrase title="xcis_x_invited" addon_id="xcis" version_id="0" version_string=""><![CDATA[{x} users are successfully invited.]]></phrase>
+    <phrase title="xcis_x_invited_y_left" addon_id="xcis" version_id="0" version_string=""><![CDATA[{x} users are successfully invited and {y} free invitations left.]]></phrase>
+    <phrase title="xcis_x_left" addon_id="xcis" version_id="25" version_string="1.4.1"><![CDATA[{x} left]]></phrase>
+    <phrase title="xcis_x_user_invites_are_updated" addon_id="xcis" version_id="0" version_string=""><![CDATA[Invite count for all matching users are successfully updated.]]></phrase>
+    <phrase title="xcis_x_users_matching_criteria" addon_id="xcis" version_id="0" version_string=""><![CDATA[There are {x} users matching the criteria. Please go back and disable Demo Mode to run actual update.]]></phrase>
+    <phrase title="xcis_yes" addon_id="xcis" version_id="0" version_string=""><![CDATA[Yes]]></phrase>
+    <phrase title="xcis_you_have_followed_invalid_invitation_link" addon_id="xcis" version_id="0" version_string=""><![CDATA[You have followed invalid invitation link. Please contact site administrator if you feel something went wrong.]]></phrase>
+    <phrase title="xcis_you_have_purchased_invitation" addon_id="xcis" version_id="0" version_string=""><![CDATA[Hello,
+
+You have successfully purchased invitation at {boardTitle}. Please follow the link below to complete the registration:
+
+{link}]]></phrase>
+    <phrase title="xcis_you_have_requested_invitation" addon_id="xcis" version_id="0" version_string=""><![CDATA[Hello,
+
+You have requested an invitation at {boardTitle}. Please follow the link below to complete the registration:
+
+{link}]]></phrase>
+    <phrase title="xcis_you_have_x_invitations_left" addon_id="xcis" version_id="0" version_string=""><![CDATA[You have {x} invitations left.]]></phrase>
+    <phrase title="xcis_you_should_use_email_x" addon_id="xcis" version_id="0" version_string=""><![CDATA[You have an active invitation for email address {email}. You can use that address only to register.]]></phrase>
+    <phrase title="xcis_you_should_use_email_x_click_to_delete" addon_id="xcis" version_id="0" version_string=""><![CDATA[You have an active invitation for email address {email}. You can use that address only to register. To register without the invitation click
+<a href="{registerLink}">here</a>.]]></phrase>
+    <phrase title="xcis_you_will_be_redirected_in_3_seconds" addon_id="xcis" version_id="13" version_string="1.1.8"><![CDATA[You will be redirected automatically within 3 seconds...]]></phrase>
+    <phrase title="xcis_you_will_need_to_follow" addon_id="xcis" version_id="0" version_string=""><![CDATA[You will need to follow the link you will get your on this email address to complete your registration.]]></phrase>
+    <phrase title="xcis_your_Facebookcontacts_already_registered" addon_id="xcis" version_id="13" version_string="1.1.8"><![CDATA[Your friends already registered with us]]></phrase>
+    <phrase title="xcis_your_Googlecontacts_already_registered" addon_id="xcis" version_id="13" version_string="1.1.8"><![CDATA[Your contacts already registered with us]]></phrase>
+    <phrase title="xcis_your_payment_was_validated_but_processor_not_confirmed" addon_id="xcis" version_id="0" version_string=""><![CDATA[Thank you for the payment. It was validated but payment processor did not confirm it yet. Please contact site administrator and provide transaction ID #{transactionId} if you have problems with purchase activation.]]></phrase>
+</language>

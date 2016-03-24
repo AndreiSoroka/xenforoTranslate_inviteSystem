@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<language title="Russian (RU)" date_format="j M Y" time_format="H:i" decimal_point="," thousands_separator="."
+          language_code="ru-RU" text_direction="LTR" addon_id="xcis">
+    <phrase title="xcis_invite_friends" addon_id="xcis" version_id="0" version_string="">
+        <![CDATA[Пригласить друзей]]></phrase>
+    <phrase title="xcis_by_email" addon_id="xcis" version_id="16" version_string="1.2.0"><![CDATA[По почте]]></phrase>
+    <phrase title="xcis_generate_link" addon_id="xcis" version_id="16" version_string="1.2.0">
+        <![CDATA[Сформировать ссылку]]></phrase>
+    <phrase title="xcis_invite_to_url" addon_id="xcis" version_id="24" version_string="1.4.0.1">
+        <![CDATA[Пригласить на страницу]]></phrase>
+    <phrase title="xcis_invite_to_url_explain" addon_id="xcis" version_id="24" version_string="1.4.0.1">
+        <![CDATA[Опционально. При переходе на форум по приглашению, пользователь будет попадать на данную страницу (ссылку). Если в пределах данной сессии он зарегистрируется, вы будете записаны как referrer.]]></phrase>
+    <phrase title="xcis_invitation_type" addon_id="xcis" version_id="20" version_string="1.3.2">
+        <![CDATA[Способ приглашения]]></phrase>
+    <phrase title="xcis_referral_link" addon_id="xcis" version_id="20" version_string="1.3.2">
+        <![CDATA[Постоянная ссылка]]></phrase>
+    <phrase title="xcis_one_time_invite_link" addon_id="xcis" version_id="20" version_string="1.3.2">
+        <![CDATA[Одноразовая ссылка]]></phrase>
+    <phrase title="xcis_invitation_type_explain" addon_id="xcis" version_id="20" version_string="1.3.2">
+        <![CDATA[Ссылки для приглашений могут быть как постоянные, так и одноразовые. В первом случае вы будете записаны как referrer, во втором случае вы так же увидите, кто зарегистрировался по ссылке]]></phrase>
+    <phrase title="xcis_generate" addon_id="xcis" version_id="16" version_string="1.2.0">
+        <![CDATA[Сформировать ссылку]]></phrase>
+    <phrase title="xcis_friend_email" addon_id="xcis" version_id="0" version_string=""><![CDATA[Почта]]></phrase>
+    <phrase title="xcis_invitaion_message" addon_id="xcis" version_id="0" version_string="">
+        <![CDATA[Текст приглашения]]></phrase>
+    <phrase title="xcis_default_invite_message" addon_id="xcis" version_id="0" version_string=""><![CDATA[Здравствуйте!
+
+{username} отправил Вам приглашение на форум {boardTitle}. 
+
+Ссылка для регистрации: {link}]]></phrase>
+    <phrase title="xcis_send_invitation" addon_id="xcis" version_id="0" version_string="">
+        <![CDATA[Отправить приглашение]]></phrase>
+    <phrase title="xcis_add_more" addon_id="xcis" version_id="0" version_string=""><![CDATA[Еще]]></phrase>
+    <phrase title="xcis_sent_to" addon_id="xcis" version_id="0" version_string=""><![CDATA[Отправлено]]></phrase>
+    <phrase title="xcis_regisered_user" addon_id="xcis" version_id="0" version_string="">
+        <![CDATA[Пользователь]]></phrase>
+    <phrase title="xcis_remove" addon_id="xcis" version_id="0" version_string=""><![CDATA[Удалить]]></phrase>
+    <phrase title="xcis_save" addon_id="xcis" version_id="0" version_string=""><![CDATA[Сохранить]]></phrase>
+    <phrase title="xcis_invitations_sent" addon_id="xcis" version_id="0" version_string="">
+        <![CDATA[Отправленные приглашения]]></phrase>
+    <phrase title="xcis_invite" addon_id="xcis" version_id="13" version_string="1.1.8"><![CDATA[Пригласить]]></phrase>
+</language>
