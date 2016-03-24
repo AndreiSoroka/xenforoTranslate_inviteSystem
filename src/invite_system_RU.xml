@@ -95,5 +95,17 @@
         <![CDATA[Добавить в статистику профиля]]></phrase>
     <phrase title="option_xcis_add_profile_stats_explain" addon_id="xcis" version_id="0" version_string="">
         <![CDATA[Если включено, то количество приглашенных пользователей будет отображаться в статистики профиля пользователя]]></phrase>
+    <phrase title="option_xcis_email_domain_restriction" addon_id="xcis" version_id="0" version_string="">
+        <![CDATA[Ограничение по домену эл. почты]]></phrase>
+    <phrase title="option_xcis_email_domain_restriction_explain" addon_id="xcis" version_id="0" version_string="">
+        <![CDATA[Укажите домены по одному на строке. Данные домены не смогу зарегистрироваться. Пример: ".edu" или "gmail.com"]]></phrase>
+    <phrase title="option_xcis_invite_only_registration" addon_id="xcis" version_id="0" version_string="">
+        <![CDATA[Регистрация только по приглашению]]></phrase>
+    <phrase title="option_xcis_invite_only_registration_explain" addon_id="xcis" version_id="0" version_string="">
+        <![CDATA[Пользователи смогу зарегистрироваться только при наличии действующего приглашения.  If you have created invite packages available for Unregistered usergroup, users will see an option to purchase invite directly on registration page.]]></phrase>
+    <phrase title="option_xcis_invitation_email_only" addon_id="xcis" version_id="0" version_string="">
+        <![CDATA[Ограничение на электронную почту]]></phrase>
+    <phrase title="option_xcis_invitation_email_only_explain" addon_id="xcis" version_id="0" version_string="">
+        <![CDATA[Если этот параметр включен, пользователи смогут зарегистрироваться только с помощью электронной почты, на которую они получили приглашение.]]></phrase>
 
 </language>
