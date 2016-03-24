@@ -55,10 +55,6 @@
     <phrase title="option_xcis_skip_manual_approval" addon_id="xcis" version_id="0" version_string=""><![CDATA[Skip Manual Approval]]></phrase>
     <phrase title="option_xcis_skip_manual_approval_explain" addon_id="xcis" version_id="0" version_string=""><![CDATA[If enabled users registered with invitation will not be added to approval queue, regardless of board main settings.]]></phrase>
     <phrase title="permission_group_xcis" addon_id="xcis" version_id="0" version_string=""><![CDATA[Invite System]]></phrase>
-    <phrase title="permission_interface_xcis_permission_interface" addon_id="xcis" version_id="0" version_string=""><![CDATA[Invite Systenm]]></phrase>
-    <phrase title="permission_xcis_xcis_can_use" addon_id="xcis" version_id="0" version_string=""><![CDATA[Can Use System]]></phrase>
-    <phrase title="permission_xcis_xcis_flood_invite_count" addon_id="xcis" version_id="0" version_string=""><![CDATA[Flood Check Invite Count (number of invites allowed)]]></phrase>
-    <phrase title="permission_xcis_xcis_flood_timeout" addon_id="xcis" version_id="0" version_string=""><![CDATA[Flood Check Time (hours)]]></phrase>
     <phrase title="xcis_a_user_with_email" addon_id="xcis" version_id="0" version_string=""><![CDATA[A user with this email address is already registered, you should send the invitation to an address which you will use to register.]]></phrase>
     <phrase title="xcis_active" addon_id="xcis" version_id="0" version_string=""><![CDATA[Active]]></phrase>
     <phrase title="xcis_active_explain_purchase_rule" addon_id="xcis" version_id="0" version_string=""><![CDATA[Un-check to disable the purchase option.]]></phrase>
