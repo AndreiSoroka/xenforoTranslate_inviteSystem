@@ -29,10 +29,7 @@ module.exports = function (grunt) {
     watch: {
       scripts: {
         files: ['src/*.xml'],
-        tasks: ['build'],
-        options: {
-          spawn: false
-        }
+        tasks: ['build']
       }
     }
   });
