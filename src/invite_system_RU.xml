@@ -49,5 +49,24 @@
         <![CDATA[Ограничение на количество отправляемых приглашений]]></phrase>
     <phrase title="permission_xcis_xcis_flood_timeout" addon_id="xcis" version_id="0" version_string="">
         <![CDATA[Ограничение на частоту отправки приглашений (в часах)]]></phrase>
+    <phrase title="option_group_xcis_description" addon_id="xcis" version_id="0" version_string="">
+        <![CDATA[Система приглашений позволяет пользователям приглашать на форум других пользователей по электронной почте]]></phrase>
+    <phrase title="option_xcis_on" addon_id="xcis" version_id="0" version_string="">
+        <![CDATA[Включить инструмент]]></phrase>
+    <phrase title="option_xcis_on_explain" addon_id="xcis" version_id="0" version_string="">
+        <![CDATA[Снимите галочку, чтобы выключить инструмент]]></phrase>
+    <phrase title="option_xcis_referrer_usergroup" addon_id="xcis" version_id="0" version_string="">
+        <![CDATA[Группа приглашающих]]></phrase>
+    <phrase title="option_xcis_referrer_usergroup_explain" addon_id="xcis" version_id="0" version_string="">
+        <![CDATA[Приглашающие пользователи получат данную группу в качестве вторичной, как только приглашенные зарегистрируются.]]></phrase>
+    <phrase title="option_xcis_skip_email_confirmation" addon_id="xcis" version_id="0" version_string="">
+        <![CDATA[Пропустить подтверждение электронной почты]]></phrase>
+    <phrase title="option_xcis_skip_email_confirmation_explain" addon_id="xcis" version_id="0" version_string="">
+        <![CDATA[Если включено, приглашенным зарегистрированным пользователям не нужно будет подтверждать свою электронную почту.]]></phrase>
+    <phrase title="option_xcis_skip_manual_approval" addon_id="xcis" version_id="0" version_string="">
+        <![CDATA[Пропустить ручную модерацию]]></phrase>
+    <phrase title="option_xcis_skip_manual_approval_explain" addon_id="xcis" version_id="0" version_string="">
+        <![CDATA[Если включено, приглашенные зарегистрированные пользователи не будут попадать в очередь на подтверждение, в независимости настроек форума.]]></phrase>
+
 
 </language>

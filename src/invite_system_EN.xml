@@ -9,7 +9,6 @@
     <phrase title="admin_navigation_xcis_upgrade" addon_id="xcis" version_id="0" version_string=""><![CDATA[Upgrade Product]]></phrase>
     <phrase title="cron_entry_xcis_delete_notifications" addon_id="xcis" version_id="0" version_string=""><![CDATA[Delete Expired Invitations]]></phrase>
     <phrase title="option_group_xcis" addon_id="xcis" version_id="0" version_string=""><![CDATA[Invite System]]></phrase>
-    <phrase title="option_group_xcis_description" addon_id="xcis" version_id="0" version_string=""><![CDATA[Invite System allows users to invite others via email to register on the board.]]></phrase>
     <phrase title="option_xcis_add_navigation_tab" addon_id="xcis" version_id="0" version_string=""><![CDATA[Add Navigation Tab]]></phrase>
     <phrase title="option_xcis_add_navigation_tab_explain" addon_id="xcis" version_id="0" version_string=""><![CDATA[]]></phrase>
     <phrase title="option_xcis_add_profile_stats" addon_id="xcis" version_id="0" version_string=""><![CDATA[Add Profile Stats]]></phrase>
@@ -44,16 +43,6 @@
     <phrase title="option_xcis_invited_usergroup_explain" addon_id="xcis" version_id="0" version_string=""><![CDATA[All users registered to the board using an invitation (or specified valid referrer during registration) will have this group assigned as a secondary usergroup.]]></phrase>
     <phrase title="option_xcis_notable_members_tab" addon_id="xcis" version_id="25" version_string="1.4.1"><![CDATA[Add Notable Members Tab]]></phrase>
     <phrase title="option_xcis_notable_members_tab_explain" addon_id="xcis" version_id="25" version_string="1.4.1"><![CDATA[If enabled Most Invited tab will be shown in Members page]]></phrase>
-    <phrase title="option_xcis_on" addon_id="xcis" version_id="0" version_string=""><![CDATA[Product On/Off]]></phrase>
-    <phrase title="option_xcis_on_explain" addon_id="xcis" version_id="0" version_string=""><![CDATA[Choose No to disable the product.]]></phrase>
-    <phrase title="option_xcis_referrer_usergroup" addon_id="xcis" version_id="0" version_string=""><![CDATA[Referrer Usergroup]]></phrase>
-    <phrase title="option_xcis_referrer_usergroup_explain" addon_id="xcis" version_id="0" version_string=""><![CDATA[All users who invited any other user to the board will have this group assigned as a secondary usergroup after successful registration.]]></phrase>
-    <phrase title="option_xcis_show_deprecated_facebook_tab" addon_id="xcis" version_id="31" version_string="1.4.6"><![CDATA[Show Deprecated Facebook Tab]]></phrase>
-    <phrase title="option_xcis_show_deprecated_facebook_tab_explain" addon_id="xcis" version_id="31" version_string="1.4.6"><![CDATA[If checked old Facebook API tab will be shown.]]></phrase>
-    <phrase title="option_xcis_skip_email_confirmation" addon_id="xcis" version_id="0" version_string=""><![CDATA[Skip Email Confirmation]]></phrase>
-    <phrase title="option_xcis_skip_email_confirmation_explain" addon_id="xcis" version_id="0" version_string=""><![CDATA[If enabled users registered with invitation will not need to confirm their email address.]]></phrase>
-    <phrase title="option_xcis_skip_manual_approval" addon_id="xcis" version_id="0" version_string=""><![CDATA[Skip Manual Approval]]></phrase>
-    <phrase title="option_xcis_skip_manual_approval_explain" addon_id="xcis" version_id="0" version_string=""><![CDATA[If enabled users registered with invitation will not be added to approval queue, regardless of board main settings.]]></phrase>
     <phrase title="permission_group_xcis" addon_id="xcis" version_id="0" version_string=""><![CDATA[Invite System]]></phrase>
     <phrase title="xcis_a_user_with_email" addon_id="xcis" version_id="0" version_string=""><![CDATA[A user with this email address is already registered, you should send the invitation to an address which you will use to register.]]></phrase>
     <phrase title="xcis_active" addon_id="xcis" version_id="0" version_string=""><![CDATA[Active]]></phrase>
