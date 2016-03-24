@@ -15,17 +15,28 @@ module.exports = function (grunt) {
     compress: {
       main: {
         options: {
-          mode: 'gzip'
+          archive: 'invite_system_RU.tar.gz'
         },
-        expand: true,
-        cwd: 'build/',
-        src: ['**/*'],
-        dest: 'public/'
+        files: [{
+          expand: true,
+          cwd: 'build/',
+          src: ['*.xml'],
+          dest: '/',
+          filter: 'isFile'
+        }]
+      }
+    },
+    watch: {
+      scripts: {
+        files: ['src/*.xml'],
+        tasks: ['build'],
+        options: {
+          spawn: false
+        }
       }
     }
   });
 
-  //grunt.registerTask('build', ['copy', 'webpack:production']);
-  //grunt.registerTask('default', ['copy', 'webpack:developer']);
-
+  grunt.registerTask('build', ['xmlmin', 'compress']);
+  grunt.registerTask('default', ['build', 'watch']);
 };
